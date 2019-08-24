@@ -1,41 +1,48 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Justin Berk
 
 # Username (this should match the folder name)
 authors:
-- admin
+- jberk
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor, Department of medicine and Pediatrics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Warren Alpert School of Medicine at Brown University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Justin Berk is an Assistant Professor in the Department of Medicine and Pediatrics at the Warren Alpert School of Medicine. His academic interests focus on urban health issues and innovative medical education modalities.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Primary Care
+- Addiction Medicine
+- Medical Education
+- Social Media / Free Open Access Medical Education (FOAMed)
 
 education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - BA (Political Science)
+    institution: Yale University
+    year: 2010
+  - MPH (Health Management)
+    institution: Yale School of Public Health
+    year: 2011
+  - MBA (Health Organizations Management)
+    institution: Texas Tech University Rawls College of Business
+    year: 2013
+  - MD (Medicine)
+    institution: Texas Tech University Health Sciences Center School of Medicine (Lubbock)
+    year: 2015
+  - Residency, Combined Internal Medicine / Pediatrics
+    institution: Johns Hopkins School of Medicine
+    year: 2019
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,30 +51,35 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:justin.berk@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/justinberk
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/justinberk
+- icon: goodreads
+  icon_pack: fab
+  link: https://www.goodreads.com/user/show/5813133-justin-berk
+
+
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.co.uk/citations?user=TJ8BNeYAAAAJ&hl
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2865-7464
+- icon: CV
+  icon_pack: ai
+  link: files/cv.pdf
+
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "justin.berk@gmail.com"
   
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
