@@ -9,9 +9,14 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "Publications"
   url = "#posts"
   weight = 20
+
+# Podcasts
+# PowerPoints
+# Videos
+# Writing / Op-Eds
 
 [[main]]
   name = "Projects"
