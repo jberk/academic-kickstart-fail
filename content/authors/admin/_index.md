@@ -27,19 +27,19 @@ interests:
 - Social Media / Free Open Access Medical Education (FOAMed)
 
 education:
-  - BA (Political Science)
+  BA (Political Science)
     institution: Yale University
     year: 2010
-  - MPH (Health Management)
+  MPH (Health Management)
     institution: Yale School of Public Health
     year: 2011
-  - MBA (Health Organizations Management)
+  MBA (Health Organizations Management)
     institution: Texas Tech University Rawls College of Business
     year: 2013
-  - MD (Medicine)
+  MD (Medicine)
     institution: Texas Tech University Health Sciences Center School of Medicine (Lubbock)
     year: 2015
-  - Residency, Combined Internal Medicine / Pediatrics
+  Residency, Combined Internal Medicine / Pediatrics
     institution: Johns Hopkins School of Medicine
     year: 2019
 
