@@ -58,5 +58,3 @@ social:
 email: "justin.berk@gmail.com"
   
 ---
-
-Justin Berk is an assistant professor.
